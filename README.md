@@ -1,1 +1,1 @@
-# gunnersubstylesheet
+# Stylesheet for /r/Gunnerkrigg
